@@ -36,8 +36,8 @@ At its core is a **hub device** (based on Raspberry Pi with touchscreen) that se
 
 ## Technology Stack
 
-- **Core**: Raspberry Pi, Zigbee, NFC  
-- **Frontend**: ReactJS  
+- **Core**: Raspberry Pi, Zigbee  
+- **Frontend**: Vite, TypeScript, React
 - **Backend**: Flask (Python), Go (for camera streaming)  
 - **Databases**: SQLite (stats), Redis (devices)  
 - **Messaging**: MQTT (Mosquitto, Zigbee2MQTT)  
