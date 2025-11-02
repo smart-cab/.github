@@ -1,4 +1,4 @@
-<img src="./smartcab_hub_drawn.png">
+<img src="./smartcab_hub_drawn.png" height="500px">
 
 # SmartCab
 
