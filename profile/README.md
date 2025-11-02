@@ -1,3 +1,5 @@
+<img src="./smartcab_hub_drawn.png">
+
 # SmartCab
 
 SmartCab is a comprehensive **smart classroom system** designed to make school classrooms safer, more efficient, and more comfortable.  
